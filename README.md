@@ -11,7 +11,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 ### Links
 
 - Solution URL: [Page Frontend Mentor]()
-- Live Site URL: [Page Public]()
+- Live Site URL: [Page Public](https://frontendmentor-ping-coming-soon-page-master.vercel.app/)
 
 ### Built with
 
