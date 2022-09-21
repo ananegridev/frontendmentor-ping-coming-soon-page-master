@@ -107,6 +107,7 @@ em {
   margin-left: 25px;
   color: var(--LightRed);
   display: none;
+  text-align: center;
 }
 
 button {
@@ -185,6 +186,7 @@ h6 {
 
   em {
     font-size: 14px;
+    margin-left: 0;
   }
 
   button {
