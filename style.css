@@ -152,7 +152,7 @@ button:hover {
   color: white;
 }
 
-h6 {
+.copyright {
   margin-top: 20px;
   font-size: 12px;
   color: var(--Gray);
@@ -177,10 +177,13 @@ h6 {
   }
 
   form div {
-    margin-right: 0px;
+    margin-right: -10px;
     margin-bottom: 35px;
     display: flex;
     align-items: center;
+  }
+  input{
+    margin-right: 0;
   }
 
   em {
